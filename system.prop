@@ -1,0 +1,14 @@
+ro.product.odm.model=SM-S921B
+ro.product.odm_dlkm.model=SM-S921B
+ro.product.odm_ext.model=SM-S921B
+ro.product.model=SM-S921B
+ro.product.dlkm.model=SM-S921B
+ro.product.ext.model=SM-S921B
+ro.product.system.model=SM-S921B
+ro.product.system_dlkm.model=SM-S921B
+ro.product.system_ext.model=SM-S921B
+ro.product.vendor.model=SM-S921B
+ro.product.vendor_dlkm.model=SM-S921B
+ro.product.vendor_ext.model=SM-S921B
+ro.build.version.sep=150100
+ro.build.version.oneui=60100
