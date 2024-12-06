@@ -1,7 +1,7 @@
 id=m35mods
 name=M35 Feature Enhancer
-version=1.0.0
-versionCode=1000
+version=1.0.1
+versionCode=1001
 author=Abhishek Babu
 description=Module to add Flagship Features in M35
 updateJson=https://raw.githubusercontent.com/TheBizarreAbhishek/M35_Feature_Enhancer/main/update.json
